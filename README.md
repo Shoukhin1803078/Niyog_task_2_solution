@@ -7,7 +7,6 @@ I created this FastAPI application that allows users to upload a PDF document an
 #### Prerequisites
 - Python 3.8+
 - FastAPI
-- PyPDF2
 - OpenAI API key
 
 
