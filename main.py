@@ -213,15 +213,12 @@ async def ask_question(
     else:
         context = pdf_text
     
-    # Get answer from LLM
+    
     answer = await get_answer_from_llm(request.question, context, settings)
     
     return QuestionResponse(answer=answer)
 
-@app.get("/health")
-async def health_check():
-    """Health check endpoint"""
-    return {"status": "healthy"}
+
 
 @app.exception_handler(HTTPException)
 async def http_exception_handler(request, exc):
