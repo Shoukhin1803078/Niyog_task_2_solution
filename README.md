@@ -66,7 +66,7 @@ In swagger UI API will be at http://localhost:8000/docs
 
 
 # My output (API Endpoint Test):
-<img width="1710" alt="Screenshot 2025-05-11 at 5 05 23 PM" src="https://github.com/user-attachments/assets/5600516d-ec94-428f-aa82-f9f6d6104840" />
+<img width="1710" alt="Screenshot 2025-05-11 at 4 49 50 PM" src="https://github.com/user-attachments/assets/8942a4f1-480a-4609-b2cc-2aea1775a705" />
 <img width="1710" alt="Screenshot 2025-05-11 at 4 45 21 PM" src="https://github.com/user-attachments/assets/117e3e0a-58f8-4bd6-aeae-63819528977b" />
 <img width="1710" alt="Screenshot 2025-05-11 at 4 46 01 PM" src="https://github.com/user-attachments/assets/11aedff1-3165-43fa-9b99-3b073e57c415" />
 <img width="1710" alt="Screenshot 2025-05-11 at 4 46 10 PM" src="https://github.com/user-attachments/assets/28824953-216c-4f28-96de-a1bbb64f0387" />
