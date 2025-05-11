@@ -50,15 +50,15 @@ In swagger UI API will be at http://localhost:8000/docs
 
 
 
-### Response Format
+### Sample Response Format
 {
   "message": "PDF successfully uploaded and processing started"
 }
-### Request Format
+### Sample Request Format
 {
   "question": "What is the main topic of the document?"
 }
-### Response Format
+### Sample Response Format
 {
   "answer": "The main topic of the document is artificial intelligence applications in healthcare."
 }
