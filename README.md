@@ -60,7 +60,7 @@ In swagger UI API will be at http://localhost:8000/docs
 }
 ### Sample Response Format
 {
-  "answer": "The main topic of the document is artificial intelligence applications in healthcare."
+  "answer": "The main topic of the document is [topic]"
 }
 
 
